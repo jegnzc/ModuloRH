@@ -1,0 +1,27 @@
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaModelo\obj\Debug\CapaModelo.pdb
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaModelo\bin\Debug\BCrypt.Net.dll
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaModelo\bin\Debug\BCrypt.Net.xml
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaModelo\obj\Debug\CapaModelo.csproj.CopyComplete
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaModelo\bin\Debug\BCrypt.Net.dll
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaModelo\bin\Debug\BCrypt.Net.xml
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaModelo\obj\Debug\CapaModelo.csproj.CopyComplete
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaModelo\obj\Debug\CapaModelo.pdb
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaModelo\obj\Debug\CapaModelo.pdb
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaModelo\bin\Debug\BCrypt.Net.dll
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaModelo\bin\Debug\BCrypt.Net.xml
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaModelo\obj\Debug\CapaModelo.csproj.CopyComplete

@@ -1,0 +1,33 @@
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaControlador\bin\Debug\BCrypt.Net.dll
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaControlador\bin\Debug\BCrypt.Net.xml
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaControlador\bin\Debug\BCrypt.Net.dll
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaControlador\bin\Debug\BCrypt.Net.xml
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaControlador\bin\Debug\BCrypt.Net.dll
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaControlador\bin\Debug\BCrypt.Net.xml
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete

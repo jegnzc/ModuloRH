@@ -1,0 +1,67 @@
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.frmLoginHSC.resources
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaVista\bin\Debug\BCrypt.Net.dll
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaVista\bin\Debug\BCrypt.Net.xml
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\kievk\source\repos\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.frmLoginHSC.resources
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\bin\Debug\System.Buffers.dll
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\bin\Debug\System.Memory.dll
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\bin\Debug\System.Buffers.xml
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\bin\Debug\System.Memory.xml
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\kievk\OneDrive\Desktop\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\bin\Debug\System.Buffers.dll
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\bin\Debug\System.Memory.dll
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\bin\Debug\System.Buffers.xml
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\bin\Debug\System.Memory.xml
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.frmLoginHSC.resources
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.MDISeguridad.resources
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.frmMantenimientoAplicacion.resources
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.frmAgregarAplicacion.resources
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.frmAsignarAplicacionAPerfiles.resources
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.frmConsultarPerfil.resources
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.frmCambioContraseña.resources
+C:\Users\kievk\OneDrive\Desktop\Entrega Previa\HSCLoginDLL\CapaVista\obj\Debug\CapaVista.frmMantenimientoPerfil.resources
